@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "base_track": "WANNABE",
+  "base_artist": "ITZY",
+  "createdAt": "2026-03-22T06:37:32.416207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "So You Wannabe an Outlaw",
+      "artist": "Steve Earle & The Dukes",
+      "has_synced": false,
+      "path": "select/01_So_You_Wannabe_an_Outlaw_Steve_Earle_&_The_Dukes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wannabe",
+      "artist": "Lipgloss Twins",
+      "has_synced": false,
+      "path": "select/02_Wannabe_Lipgloss_Twins.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wannabe (feat. Therese Curatolo, Olivia Kuper Harris & Sara Niemietz)",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Therese Curatolo, Olivia Kuper Harris & Sara Niemietz",
+      "has_synced": true,
+      "path": "select/03_Wannabe_(feat._Therese_Curatolo,_Olivia_Kuper_Harris_&_Sara_Niemietz)_Scott_Bradlee's_Postmodern_Jukebox_feat._Therese_Curatolo,_Olivia_Kuper_Harris_&.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Wannabe / Liked By You",
+      "artist": "Julie Doiron",
+      "has_synced": true,
+      "path": "select/04_Don't_Wannabe___Liked_By_You_Julie_Doiron.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Wannabe \u0000 Liked By You",
+      "artist": "Julie Doiron",
+      "has_synced": true,
+      "path": "select/05_Don't_Wannabe_\u0000_Liked_By_You_Julie_Doiron.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wannabe",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/06_Wannabe_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wannabe Gangstar",
+      "artist": "Wheatus",
+      "has_synced": true,
+      "path": "select/07_Wannabe_Gangstar_Wheatus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wannabe",
+      "artist": "Die Happy",
+      "has_synced": false,
+      "path": "select/08_Wannabe_Die_Happy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wannabe",
+      "artist": "Staind",
+      "has_synced": false,
+      "path": "select/09_Wannabe_Staind.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wannabe",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/10_Wannabe_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wannabe",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/11_Wannabe_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wannabe",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/12_Wannabe_Staind.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wannabe",
+      "artist": "why mona",
+      "has_synced": true,
+      "path": "select/13_Wannabe_why_mona.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wannabe",
+      "artist": "DEMONDICE",
+      "has_synced": true,
+      "path": "select/14_Wannabe_DEMONDICE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WANNABE",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_WANNABE_ITZY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "WANNABE",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/localdb_01_WANNABE_ITZY.lrc",
+      "repo_name": "fE2h3lGlOsk"
+    }
+  ]
+}
